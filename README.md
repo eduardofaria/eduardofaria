@@ -2,7 +2,7 @@
 Sou um solucionador de problemas. Meu maior desafio (e paixão) é estar sempre me reinventando todos os dias no que quer que eu faça.
 
 - 💼 Designer Front-End (HTML/CSS)
-- 🔎 Estudando Desenvolvimento (JavaScript/Node.JS/Python)
+- 🔎 Estudando Desenvolvimento Web Front & Back-End (JavaScript/Node.JS/Python)
 - 🎓 Análise e Desenvolvimento de Sistemas (Estácio)
 
 ### Experiência
@@ -16,4 +16,6 @@ Sou um solucionador de problemas. Meu maior desafio (e paixão) é estar sempre 
 - 🤓 Compartilhando minha jornada na estrada do Desenvolvimento Web (e pessoal).
 
 ### Onde me achar?
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/criativos/)](https://www.linkedin.com/in/criativos/) [![Twitter Badge](https://img.shields.io/badge/-OlaEduTV-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OlaEduTV)](https://twitter.com/OlaEduTV) [![Behance Badge](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-333333?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/criativos)](https://www.behance.net/criativos) [![Instagram Badge](https://img.shields.io/badge/-OlaEduTV-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/OlaEduTv/)](https://www.instagram.com/OlaEduTv/)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/criativos/)](https://www.linkedin.com/in/criativos/) [![Twitter Badge](https://img.shields.io/badge/-@OlaEduTV-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OlaEduTV)](https://twitter.com/OlaEduTV) [![Behance Badge](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-333333?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/criativos)](https://www.behance.net/criativos) [![Instagram Badge](https://img.shields.io/badge/-@OlaEduTV-D60187?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/OlaEduTv/)](https://www.instagram.com/OlaEduTv/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofaria&theme=omni&show_icons=true)
