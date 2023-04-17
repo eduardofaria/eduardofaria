@@ -21,6 +21,7 @@ Sou um solucionador de problemas. Meu maior desafio (e paixão) é estar sempre 
 <a href="https://github.com/eduardofaria?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardofaria&show_icons=true&line_height=27&count_private=true&theme=omni&locale=pt-BR" alt="Eduardo Faria's GitHub Stats" />
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofaria&layout=compact&theme=dracula&locale=pt-BR)](https://github.com/eduardofaria?tab=repositories)
+<br><br>
+<a href="https://github.com/eduardofaria?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofaria&layout=compact&theme=dracula&locale=pt-BR" alt="Eduardo Faria's GitHub Stats" />
+</a>
