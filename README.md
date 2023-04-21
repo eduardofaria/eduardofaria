@@ -23,5 +23,5 @@ Sou um solucionador de problemas. Meu maior desafio (e paixão) é estar sempre 
 </a>
 <br><br>
 <a href="https://github.com/eduardofaria?tab=repositories">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardofaria&layout=compact&theme=dracula&locale=pt-BR" alt="Eduardo Faria's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofaria&layout=compact&theme=dracula&locale=pt-BR" alt="Eduardo Faria's GitHub Stats" />
 </a>
