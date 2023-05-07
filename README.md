@@ -16,7 +16,7 @@ Sou um solucionador de problemas. Meu maior desafio (e paixão) é estar sempre 
 - 🤓 Compartilhando minha jornada na estrada do Desenvolvimento Web (e pessoal).
 
 ### Onde me achar?
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/criativos/)](https://www.linkedin.com/in/criativos/) [![Twitter Badge](https://img.shields.io/badge/-@OlaEduTV-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OlaEduTV)](https://twitter.com/OlaEduTV) [![Behance Badge](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-333333?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/criativos)](https://www.behance.net/criativos) [![Instagram Badge](https://img.shields.io/badge/-@OlaEduTV-D60187?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/OlaEduTv/)](https://www.instagram.com/OlaEduTv/)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/criativos/)](https://www.linkedin.com/in/criativos/) [![Twitter Badge](https://img.shields.io/badge/-@OlaEduTV-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OlaEduTV)](https://twitter.com/OlaEduTV) [![Behance Badge](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-333333?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/criativos)](https://www.behance.net/criativos) [![Instagram Badge](https://img.shields.io/badge/-@OlaEduTV-D60187?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/OlaEduTv/)](https://www.instagram.com/OlaEduTv/) [![Skoob Badge](https://img.shields.io/badge/-Skoob-0087bf?style=flat-square&logo=ReadMe&logoColor=white&link=https://www.skoob.com.br/usuario/9827484)](https://www.skoob.com.br/usuario/9827484)
 
 <a href="https://github.com/eduardofaria?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardofaria&show_icons=true&line_height=27&count_private=true&theme=omni&locale=pt-BR" alt="Eduardo Faria's GitHub Stats" />
@@ -25,3 +25,5 @@ Sou um solucionador de problemas. Meu maior desafio (e paixão) é estar sempre 
 <a href="https://github.com/eduardofaria?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofaria&layout=compact&theme=dracula&locale=pt-BR" alt="Eduardo Faria's GitHub Stats" />
 </a>
+
+
