@@ -2,7 +2,7 @@
 I'm a problem solver. My biggest challenge (and passion) is to always be reinventing myself every day in whatever I do.
 
 - 💼 Designer Front-End (HTML/CSS)
-- 🔎 Studying Web Development, Front & Back-End (JavaScript/Node.JS/React/Python/JAVA)
+- 🔎 Studying Web Development, Front & Back-End (JavaScript/Node.JS/React.JS/C#/.NET Core)
 - 🎓 Systems Analysis and Development student at Estácio de Sá University (Rio de Janeiro)
 
 ### Experience
