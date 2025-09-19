@@ -1,24 +1,20 @@
 ## Hi 🤘
 I'm a problem solver. My biggest challenge (and passion) is to always be reinventing myself every day in whatever I do.
 
-- 💼 Designer Front-End (HTML/CSS)
-- 🔎 Studying Web Development, Front & Back-End (JavaScript/Node.JS/React.JS/C#/.NET Core)
-- 🎓 Systems Analysis and Development student at Estácio de Sá University (Rio de Janeiro)
+Recently graduated in Systems Analysis and Development, with over 10 years in Web Design and interface integration (UI) in Java and PHP projects, I am transitioning to full-stack/back-end web development.
 
 ### Experience
-- Proficiency in Layout, UI/UX, HTML/CSS.
-- I worked on Front-End frameworks (JAVA and PHP), CMS platforms (Wordpress and Magento) and mobile applications (Ionic). I created and implemented the current layout of the BNDES Institutional Portal with its respective HTML/CSS.
-- I've been working with Graphic Design for years. I currently work as a freelancer in Social Media, Streaming, Visual Identity and Web projects.
-- +10 years of experience in the IT field. (Scrum meetings, Trello, clients interviews, remote work, streaming services)
+- My stack includes JavaScript (Vanilla, TS, React, Node.js), Java, and C#, with a focus on front-end and back-end (Express, MongoDB). As a self-taught professional, I master iterations on business requirements and user experience (UX).
+- I participated in agile teams (SCRUM), optimizing layouts and fixing bugs in applications for clients such as BNDES and Log-In Logística, advancing launches by up to 6 months.
 
 #### About me
+I am seeking entry-level opportunities in web development in Rio de Janeiro or remote. Let's connect to discuss how I can contribute to your team! 😊
 - 📍 Rio de Janeiro - RJ, Brazil.
 - 🤓 Sharing my journey on the Web Development (and personal) road.
 - 🇧🇷 Portuguese & 🇺🇸 English
 
 ### Where to find me?
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/criativos/)](https://www.linkedin.com/in/criativos/) [![Twitter Badge](https://img.shields.io/badge/-@OlaEduTV-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OlaEduTV)](https://twitter.com/OlaEduTV) [![Behance Badge](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-333333?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/criativos)](https://www.behance.net/criativos) [![Instagram Badge](https://img.shields.io/badge/-@OlaEduTV-D60187?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/OlaEduTv/)](https://www.instagram.com/OlaEduTv/) [![Skoob Badge](https://img.shields.io/badge/-Skoob-0087bf?style=flat-square&logo=ReadMe&logoColor=white&link=https://www.skoob.com.br/usuario/9827484)](https://www.skoob.com.br/usuario/9827484)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/criativos/)](https://www.linkedin.com/in/criativos/) [![Behance Badge](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-333333?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/criativos)](https://www.behance.net/criativos) [![Instagram Badge](https://img.shields.io/badge/-@dgnninja-D60187?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dgnninja/)](https://www.instagram.com/dgnninja/)
 
 <br><br>
 <a href="https://github.com/eduardofaria?tab=repositories">
